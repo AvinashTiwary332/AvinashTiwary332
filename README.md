@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Hero Animated Banner -->
-  <img src="./Untitled%20design.gif" width="520px" alt="Avinash Kumar Tiwary" />
+  <img src="./Untitled%20design.gif" width="520px" alt="Hi I am, Avinash Kumar Tiwary" />
 
   <br><br>
 
@@ -54,7 +54,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode" alt="C, C++, Python, React, Node.js, Tailwind CSS, Vite, Git, GitHub, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode" alt="Tech Stack Icons"/>
 </p>
 
 <p align="center">
