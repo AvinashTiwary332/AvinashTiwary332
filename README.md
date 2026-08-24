@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Profile Image -->
-  <img src="./IMG_3708.jpeg" width="180px" height="180px" style="border-radius: 50%; object-fit: cover;" alt="Avinash Kumar Tiwary" />
+  <!-- Your Uploaded Photo with Glowing Neon Border -->
+  <img src="./IMG_3708.jpeg" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; border: 4px solid #F75C7E; box-shadow: 0 0 20px #7928CA;" alt="Avinash Kumar Tiwary" />
 
   <br/><br/>
 
