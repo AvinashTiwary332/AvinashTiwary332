@@ -1,26 +1,20 @@
 <div align="center">
 
-  <!-- Animated Neon Cyber Circle Avatar -->
+  <!-- 1. Real Animated Neon Glowing Avatar -->
   <a href="https://github.com/AvinashTiwary332">
-    <img 
-      src="https://github.com/AvinashTiwary332.png" 
-      width="210px" 
-      height="210px" 
-      style="border-radius: 50%; object-fit: cover; border: 4px solid #00F2FE; box-shadow: 0 0 25px #00F2FE, 0 0 50px rgba(0, 242, 254, 0.4);" 
-      alt="Avinash Kumar Tiwary" 
-    />
+    <img src="./avatar-animated.svg" width="220px" alt="Avinash Kumar Tiwary" />
   </a>
 
   <br><br>
 
-  <!-- Extra Large & Bold Glowing Orbitron Typing Header -->
+  <!-- 2. Extra Large & Bold Glowing Orbitron Typing Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=44&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=950&height=95&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects;" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- Social Connect Badges -->
+  <!-- 3. Social Connect Badges -->
   <a href="https://www.linkedin.com/in/avinash-kumar-tiwary-b034a130b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -30,7 +24,7 @@
 
   <br><br>
 
-  <!-- Dynamic Profile View Counter -->
+  <!-- 4. Dynamic Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=AvinashTiwary332&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views"/>
 
 </div>
