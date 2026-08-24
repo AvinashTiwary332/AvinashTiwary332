@@ -1,61 +1,45 @@
 <div align="center">
 
-  <!-- ==================== ANIMATED AVATAR ==================== -->
+  <!-- 1. Hero Animated Banner -->
+  <img src="./Untitled%20design.gif" width="520px" alt="Hi I am, Avinash Kumar Tiwary" />
 
-  <img src="./avatar-animated.svg" width="220px" alt="Avinash Kumar Tiwary" />
+  <br><br>
 
-  <br/><br/>
-
-  <!-- ==================== DYNAMIC TYPING TITLE ==================== -->
-
+  <!-- 2. Orbitron Glowing Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Reality"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br><br>
 
-  <!-- ==================== SOCIAL BADGES ==================== -->
-
-  <a href="https://www.linkedin.com/in/avinash-kumar-tiwary-b034a130b">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+  <!-- 3. Social Connect Badges -->
+  <a href="https://www.linkedin.com/in/avinash-kumar-tiwary-b034a130b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AvinashTiwary332" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://github.com/AvinashTiwary332">
-    <img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+  <br><br>
 
-  <br/><br/>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=AvinashTiwary332&label=PROFILE+VIEWS&color=F75C7E&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <!-- 4. Dynamic Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=AvinashTiwary332&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **Education:** 2nd Year B.Tech in CSE (AI & ML) at **Adamas University**
-- 🔭 **Focus Areas:** Machine Learning, Artificial Intelligence, and Software Engineering
+- 🎓 **Education:** 2nd Year (3rd Semester) B.Tech in CSE (AI & ML) at **Adamas University** (Batch 2025 – 2029)
+- 🔭 **Focus Areas:** Artificial Intelligence, Machine Learning, and Software Engineering
 - 🌱 **Currently Exploring:** Data Structures & Algorithms, Deep Learning fundamentals, and Modern Web Technologies
-- 💡 **Interested In:** AI/ML, software development, problem solving, and building real-world applications
-- 🚀 **Goal:** Become a strong Software Developer with expertise in AI & Machine Learning
+- 💡 **Interested In:** Building practical projects and solving real-world problems
 - ⚡ **Fun Fact:** I can spend 3 hours debugging code only to find a missing semicolon
 
 ---
 
-# 🎯 Currently Working On
+## 🎯 Currently Working On
 
 - 🧠 Data Structures & Algorithms
 - 🤖 Artificial Intelligence & Machine Learning
@@ -67,23 +51,14 @@
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode"
-    alt="C, C++, Python, React, Node.js, Tailwind CSS, Vite, Git, GitHub, VS Code"
-  />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode" alt="C, C++, Python, React, Node.js, Tailwind CSS, Vite, Git, GitHub, VS Code"/>
 </p>
 
 <p align="center">
-
-  <b>
-    C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git • GitHub • VS Code
-  </b>
-
+  <b>C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git • GitHub • VS Code</b>
 </p>
 
 ---
@@ -91,20 +66,15 @@
 # 🧭 My Learning Journey
 
 <p align="center">
-
-  <b>
-    From Programming → DSA → Web Development → AI/ML → Real-World Projects 🚀
-  </b>
-
+  <b>From fundamentals → problem solving → AI/ML → real-world development 🚀</b>
 </p>
 
-<br/>
+<br>
 
 <details open>
-
 <summary>🟢 <b>01 — Programming Foundations</b> | C • C++ • Python</summary>
 
-<br/>
+<br>
 
 ### 💻 Building the Foundation
 
@@ -114,45 +84,40 @@
 - 🧠 Programming Fundamentals
 - 🧩 Object-Oriented Programming
 - 🛠️ Problem Solving
-- 📌 Debugging & Code Optimization
 
 **Goal:** Build strong programming fundamentals.
 
 </details>
 
-<br/>
+<br>
 
 <details>
-
 <summary>🔵 <b>02 — Data Structures & Algorithms</b> | DSA • Problem Solving</summary>
 
-<br/>
+<br>
 
 ### 🧠 Learning to Think Like a Programmer
 
 - 📌 Arrays
-- 📌 Strings
 - 📌 Linked Lists
 - 📌 Stacks & Queues
 - 📌 Trees
 - 📌 Graphs
-- 📌 Searching
-- 📌 Sorting
+- 📌 Searching & Sorting
 - 📌 Recursion
 - 📌 Time & Space Complexity
 - 🚀 Problem Solving
 
-**Goal:** Develop strong algorithmic thinking and problem-solving skills.
+**Goal:** Become stronger at algorithmic thinking.
 
 </details>
 
-<br/>
+<br>
 
 <details>
-
 <summary>🟣 <b>03 — Web Development</b> | React • Node.js • Tailwind • Vite</summary>
 
-<br/>
+<br>
 
 ### 🌐 Building for the Web
 
@@ -164,43 +129,39 @@
 - ⚡ Vite
 - 🔗 APIs
 - 🔐 Authentication
-- 🗄️ Databases
-- 🚀 Full-Stack Applications
+- 🗄️ Backend & Databases
 
-**Goal:** Build modern and responsive web applications.
+**Goal:** Build modern full-stack applications.
 
 </details>
 
-<br/>
+<br>
 
 <details>
-
 <summary>🟠 <b>04 — Artificial Intelligence</b> | AI • Machine Learning</summary>
 
-<br/>
+<br>
 
 ### 🤖 Exploring Intelligent Systems
 
 - 🧠 Artificial Intelligence fundamentals
-- 🐍 Python for AI/ML
 - 📊 Data preprocessing
 - 📈 Machine Learning
 - 🧮 Mathematics for ML
 - 📉 Model evaluation
 - 🔬 Experimentation
-- 🧠 Feature Engineering
+- 🐍 Python for AI/ML
 
-**Goal:** Understand how intelligent systems learn from data.
+**Goal:** Understand how intelligent systems are designed.
 
 </details>
 
-<br/>
+<br>
 
 <details>
-
 <summary>🔴 <b>05 — Deep Learning</b> | Neural Networks • Advanced AI</summary>
 
-<br/>
+<br>
 
 ### 🧠 Going Deeper
 
@@ -212,47 +173,45 @@
 - ⚙️ Optimization
 - 🚀 AI-powered applications
 
-**Goal:** Move from ML fundamentals toward practical Deep Learning.
+**Goal:** Move from ML fundamentals to practical deep learning.
 
 </details>
 
-<br/>
+<br>
 
 <details>
-
 <summary>🟡 <b>06 — Real-World Projects</b> | Build • Test • Deploy</summary>
 
-<br/>
+<br>
 
 ### 🚀 Turning Knowledge Into Products
 
-- 💡 Identify a problem
+- 💡 Find a problem
 - 🧠 Design a solution
 - 💻 Build the project
-- 🧪 Test & Debug
+- 🧪 Test & debug
 - 🔧 Improve
 - 🌐 Deploy
-- 📊 Analyze
-- 📚 Document
+- 📊 Analyze results
+- 📚 Document the project
 
-**Goal:** Turn knowledge into useful real-world applications.
+**Goal:** Turn everything I learn into something people can actually use.
 
 </details>
 
-<br/>
+<br>
 
 <details>
-
 <summary>🏆 <b>07 — Long-Term Goal</b> | AI/ML Engineer • Software Developer</summary>
 
-<br/>
+<br>
 
 ### 🚀 The Bigger Picture
 
 ```text
 Programming
      ↓
-Data Structures & Algorithms
+DSA
      ↓
 Software Development
      ↓
