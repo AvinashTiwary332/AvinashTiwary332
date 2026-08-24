@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 1. Neon Glowing Animated Cyber Avatar -->
+  <!-- 1. Large Animated Neon Cyber Avatar -->
   <a href="https://github.com/AvinashTiwary332">
-    <img src="./avatar-animated.svg" width="240px" alt="Avinash Kumar Tiwary" />
+    <img src="./avatar-animated.svg" width="420px" alt="Avinash Kumar Tiwary" />
   </a>
 
   <br><br>
