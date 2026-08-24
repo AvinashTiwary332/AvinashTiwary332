@@ -5,9 +5,9 @@
 
   <br><br>
 
-  <!-- 2. Extra Big & Bold Glowing Orbitron Typing Header -->
+  <!-- 2. Extra Large & Bold Glowing Orbitron Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=44&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=950&height=95&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects;" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** 2nd Year (3rd Semester) B.Tech in CSE (AI & ML) at **Adamas University** (Batch 2025 – 2029)
+- 🎓 **Education:** 2nd Year (3rd Semester) B.Tech in CSE (AI & ML) (Batch 2025 – 2029)
 - 🔭 **Focus Areas:** Artificial Intelligence, Machine Learning, and Software Engineering
 - 🌱 **Currently Exploring:** Data Structures & Algorithms, Deep Learning fundamentals, and Modern Web Technologies
 - 💡 **Interested In:** Building practical projects and solving real-world problems
