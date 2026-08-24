@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Hero Animated Banner -->
-  <img src="./Untitled%20design.gif" width="520px" alt="Hi I am, Avinash Kumar Tiwary" />
+  <img src="./Untitled%20design.gif" width="520px" alt="Avinash Kumar Tiwary" />
 
   <br><br>
 
