@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Your Uploaded Photo with Glowing Neon Border -->
-  <img src="./IMG_3708.jpeg" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; border: 4px solid #F75C7E; box-shadow: 0 0 20px #7928CA;" alt="Avinash Kumar Tiwary" />
+  <!-- 1. Centered Animated Hero GIF -->
+  <img src="./Untitled%20design.gif" width="520px" alt="Avinash Kumar Tiwary" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing Title -->
+  <!-- 2. Dynamic Typing Title -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- 3. Social Badges -->
   <a href="https://www.linkedin.com/in/avinash-kumar-tiwary-b034a130b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
