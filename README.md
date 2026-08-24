@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 1. Hero Animated Avatar -->
+  <!-- 1. Animated SVG Avatar -->
   <a href="https://github.com/AvinashTiwary332">
-    <img src="./Untitled%20design.gif" width="420px" alt="Avinash Kumar Tiwary" />
+    <img src="./avatar-animated.svg" width="220px" alt="Avinash Kumar Tiwary" />
   </a>
 
   <br><br>
