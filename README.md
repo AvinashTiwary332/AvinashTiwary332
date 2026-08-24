@@ -36,16 +36,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvinashTiwary332&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="Avinash Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AvinashTiwary332&theme=radical&hide_border=true" alt="Streak Stats" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashTiwary332&theme=radical" alt="GitHub Summary Profile" width="85%" />
 </p>
