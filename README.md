@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Centered Animated Hero GIF -->
-  <img src="./Untitled%20design.gif" width="560px" alt="Hi I am,Avinash Kumar Tiwary" />
+  <img src="./Untitled%20design.gif" width="560px" alt="Hi I am, Avinash Kumar Tiwary" />
 
   <br/><br/>
 
@@ -27,17 +27,17 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 Verified GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AvinashTiwary332&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Avinash Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AvinashTiwary332&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,AAA,AA,A,B,C" alt="Avinash Trophies" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 System Core Profile: `avinash.sys`
+### 🌐 Developer Terminal & System Architecture
 
 ```yaml
 ╭──────────────────────────────────────────────────────────────────────────────╮
@@ -46,25 +46,11 @@
 
 identity:
   name: "Avinash Kumar Tiwary"
-  role: "AI/ML Engineer in the Making & Systems Architect"
+  role: "AI/ML Engineer & Systems Architect"
   status: "🟢 Compiling Future | Debugging Reality"
 
 academic_matrix:
-  degree_pursuing: "B.Tech in Computer Science & Engineering"
-  neural_specialization: "Artificial Intelligence & Machine Learning (AI & ML)"
-  nexus_institution: "Adamas University"
-  academic_timeline: "Batch 2025 - 2029 | 2nd Year (3rd Semester)"
-  degree_progress: "[███████████░░░░░░░░░░░░░░░░░░░░░] 31.25% Initialized (Sem 3/8)"
-  current_quest: "Mastering Advanced DSA, Core ML Algorithms & System Architecture"
-
-subroutines_in_progress:
-  active_threads:
-    - "🧠 Training Deep Learning models on custom datasets"
-    - "⚔️ Optimizing time & space complexity in C/C++ algorithms"
-    - "🌐 Engineering responsive, high-performance web applications"
-  core_directive: "Turn coffee and clean logic into scalable intelligent systems"
-
-system_logs:
-  caffeine_level: "94.2% ☕"
-  semicolon_errors_fixed: "9,999+"
-  current_motto: "In a world full of algorithms, be the anomaly."
+  degree: "B.Tech in Computer Science & Engineering (AI & ML)"
+  nexus: "Adamas University"
+  timeline: "2025 - 2029 | 2nd Year (Semester 3/8)"
+  progress: "[███████████░░░░░░░░░░░░░░░░░░░░░] 31.25% Completed"
