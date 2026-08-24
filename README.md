@@ -1,8 +1,13 @@
 <div align="center">
 
+  <!-- Profile Image -->
+  <img src="./IMG_3708.jpeg" width="180px" height="180px" style="border-radius: 50%; object-fit: cover;" alt="Avinash Kumar Tiwary" />
+
+  <br/><br/>
+
   <!-- Dynamic Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Exploring+AI%2C+ML+%26+Software+Development;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -23,7 +28,7 @@
 
 - 🎓 **Education:** 2nd Year B.Tech in CSE (AI & ML) at **Adamas University**
 - 🔭 **Focus Areas:** Machine Learning, Artificial Intelligence, and Core Software Engineering
-- 🌱 **Currently Exploring:** Data Structures & Algorithms, Deep Learning fundamentals, and modern development tools
+- 🌱 **Currently Exploring:** Data Structures & Algorithms, Deep Learning fundamentals, and Modern Web Tech
 - ⚡ **Fun Fact:** I can spend 3 hours debugging code only to find a missing semicolon
 
 ---
@@ -32,6 +37,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashTiwary332&theme=react-dark&hide_border=true&area=true" alt="Avinash Activity Graph" width="100%" />
 </p>
 
 ---
