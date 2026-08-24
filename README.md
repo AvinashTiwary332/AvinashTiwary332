@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 1. Real Animated Neon Glowing Avatar -->
+  <!-- 1. Hero Animated Avatar -->
   <a href="https://github.com/AvinashTiwary332">
-    <img src="./avatar-animated.svg" width="220px" alt="Avinash Kumar Tiwary" />
+    <img src="./Untitled%20design.gif" width="420px" alt="Avinash Kumar Tiwary" />
   </a>
 
   <br><br>
