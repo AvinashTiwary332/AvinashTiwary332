@@ -62,29 +62,23 @@
 </p>
 
 ---
-### 📊 GitHub Activity & Stats
+
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AvinashTiwary332&theme=radical&hide_border=true" alt="Streak Stats" width="85%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinashTiwary332&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashTiwary332&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
-<div align="center">
-  <sub>⚡ Engineered by <b>Avinash Kumar Tiwary</b> | Continuous Learning & Innovation 🚀</sub>
-</div>
-### 📈 Contribution Activity Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashTiwary332&theme=react-dark&hide_border=true&area=true" alt="Avinash Activity Graph" width="100%" />
 </p>
 
 ---
+
 # 🧭 My Learning Journey
 
 <p align="center">
