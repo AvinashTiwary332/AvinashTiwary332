@@ -36,23 +36,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AvinashTiwary332&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="Avinash Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AvinashTiwary332&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinashTiwary332&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashTiwary332&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350px" />
+  <img src="https://streak-stats.demolab.com?user=AvinashTiwary332&theme=radical&hide_border=true" alt="Streak Stats" width="85%" />
 </p>
-
-
-  <!-- GitHub Stats Card -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AvinashTiwary332&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashTiwary332&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
