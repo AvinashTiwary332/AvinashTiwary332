@@ -1,44 +1,42 @@
 <div align="center">
 
-  <!-- ==================== HERO GIF ==================== -->
+  <!-- ==================== ANIMATED AVATAR ==================== -->
 
-  <img src="./Untitled design.gif" width="520px" alt="Avinash Kumar Tiwary" />
+  <img src="./avatar-animated.svg" width="220px" alt="Avinash Kumar Tiwary" />
 
-  <br><br>
+  <br/><br/>
 
-  <!-- ==================== TYPING ANIMATION ==================== -->
+  <!-- ==================== DYNAMIC TYPING TITLE ==================== -->
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Reality"
       alt="Typing SVG"
     />
   </a>
 
-  <br><br>
+  <br/><br/>
 
-  <!-- ==================== SOCIAL LINKS ==================== -->
+  <!-- ==================== SOCIAL BADGES ==================== -->
 
   <a href="https://www.linkedin.com/in/avinash-kumar-tiwary-b034a130b">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
   <a href="https://github.com/AvinashTiwary332">
     <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 
-  <br><br>
-
-  <!-- ==================== PROFILE VIEWS ==================== -->
+  <br/><br/>
 
   <img
-    src="https://komarev.com/ghpvc/?username=AvinashTiwary332&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=AvinashTiwary332&label=PROFILE+VIEWS&color=F75C7E&style=for-the-badge"
     alt="Profile Views"
   />
 
@@ -46,17 +44,18 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 **Education:** 2nd Year B.Tech in CSE (AI & ML) at **Adamas University**
-- 🔭 **Focus Areas:** Artificial Intelligence, Machine Learning, and Software Engineering
+- 🔭 **Focus Areas:** Machine Learning, Artificial Intelligence, and Software Engineering
 - 🌱 **Currently Exploring:** Data Structures & Algorithms, Deep Learning fundamentals, and Modern Web Technologies
-- 💡 **Interested In:** Building practical projects and solving real-world problems
+- 💡 **Interested In:** AI/ML, software development, problem solving, and building real-world applications
+- 🚀 **Goal:** Become a strong Software Developer with expertise in AI & Machine Learning
 - ⚡ **Fun Fact:** I can spend 3 hours debugging code only to find a missing semicolon
 
 ---
 
-## 🎯 Currently Working On
+# 🎯 Currently Working On
 
 - 🧠 Data Structures & Algorithms
 - 🤖 Artificial Intelligence & Machine Learning
@@ -68,22 +67,22 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 <p align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode"
-  alt="C, C++, Python, React, Node.js, Tailwind CSS, Vite, Git, GitHub, VS Code"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,react,nodejs,tailwind,vite,git,github,vscode"
+    alt="C, C++, Python, React, Node.js, Tailwind CSS, Vite, Git, GitHub, VS Code"
+  />
 
 </p>
 
 <p align="center">
 
-<b>
-C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git • GitHub • VS Code
-</b>
+  <b>
+    C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git • GitHub • VS Code
+  </b>
 
 </p>
 
@@ -92,15 +91,20 @@ C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git •
 # 🧭 My Learning Journey
 
 <p align="center">
-  <b>From fundamentals → problem solving → AI/ML → real-world development 🚀</b>
+
+  <b>
+    From Programming → DSA → Web Development → AI/ML → Real-World Projects 🚀
+  </b>
+
 </p>
 
-<br>
+<br/>
 
 <details open>
+
 <summary>🟢 <b>01 — Programming Foundations</b> | C • C++ • Python</summary>
 
-<br>
+<br/>
 
 ### 💻 Building the Foundation
 
@@ -110,40 +114,45 @@ C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git •
 - 🧠 Programming Fundamentals
 - 🧩 Object-Oriented Programming
 - 🛠️ Problem Solving
+- 📌 Debugging & Code Optimization
 
 **Goal:** Build strong programming fundamentals.
 
 </details>
 
-<br>
+<br/>
 
 <details>
+
 <summary>🔵 <b>02 — Data Structures & Algorithms</b> | DSA • Problem Solving</summary>
 
-<br>
+<br/>
 
 ### 🧠 Learning to Think Like a Programmer
 
 - 📌 Arrays
+- 📌 Strings
 - 📌 Linked Lists
 - 📌 Stacks & Queues
 - 📌 Trees
 - 📌 Graphs
-- 📌 Searching & Sorting
+- 📌 Searching
+- 📌 Sorting
 - 📌 Recursion
 - 📌 Time & Space Complexity
 - 🚀 Problem Solving
 
-**Goal:** Become stronger at algorithmic thinking.
+**Goal:** Develop strong algorithmic thinking and problem-solving skills.
 
 </details>
 
-<br>
+<br/>
 
 <details>
+
 <summary>🟣 <b>03 — Web Development</b> | React • Node.js • Tailwind • Vite</summary>
 
-<br>
+<br/>
 
 ### 🌐 Building for the Web
 
@@ -155,39 +164,43 @@ C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git •
 - ⚡ Vite
 - 🔗 APIs
 - 🔐 Authentication
-- 🗄️ Backend & Databases
+- 🗄️ Databases
+- 🚀 Full-Stack Applications
 
-**Goal:** Build modern full-stack applications.
+**Goal:** Build modern and responsive web applications.
 
 </details>
 
-<br>
+<br/>
 
 <details>
+
 <summary>🟠 <b>04 — Artificial Intelligence</b> | AI • Machine Learning</summary>
 
-<br>
+<br/>
 
 ### 🤖 Exploring Intelligent Systems
 
 - 🧠 Artificial Intelligence fundamentals
+- 🐍 Python for AI/ML
 - 📊 Data preprocessing
 - 📈 Machine Learning
 - 🧮 Mathematics for ML
 - 📉 Model evaluation
 - 🔬 Experimentation
-- 🐍 Python for AI/ML
+- 🧠 Feature Engineering
 
-**Goal:** Understand how intelligent systems are designed.
+**Goal:** Understand how intelligent systems learn from data.
 
 </details>
 
-<br>
+<br/>
 
 <details>
+
 <summary>🔴 <b>05 — Deep Learning</b> | Neural Networks • Advanced AI</summary>
 
-<br>
+<br/>
 
 ### 🧠 Going Deeper
 
@@ -199,45 +212,47 @@ C • C++ • Python • React • Node.js • Tailwind CSS • Vite • Git •
 - ⚙️ Optimization
 - 🚀 AI-powered applications
 
-**Goal:** Move from ML fundamentals to practical deep learning.
+**Goal:** Move from ML fundamentals toward practical Deep Learning.
 
 </details>
 
-<br>
+<br/>
 
 <details>
+
 <summary>🟡 <b>06 — Real-World Projects</b> | Build • Test • Deploy</summary>
 
-<br>
+<br/>
 
 ### 🚀 Turning Knowledge Into Products
 
-- 💡 Find a problem
+- 💡 Identify a problem
 - 🧠 Design a solution
 - 💻 Build the project
-- 🧪 Test & debug
+- 🧪 Test & Debug
 - 🔧 Improve
 - 🌐 Deploy
-- 📊 Analyze results
-- 📚 Document the project
+- 📊 Analyze
+- 📚 Document
 
-**Goal:** Turn everything I learn into something people can actually use.
+**Goal:** Turn knowledge into useful real-world applications.
 
 </details>
 
-<br>
+<br/>
 
 <details>
+
 <summary>🏆 <b>07 — Long-Term Goal</b> | AI/ML Engineer • Software Developer</summary>
 
-<br>
+<br/>
 
 ### 🚀 The Bigger Picture
 
 ```text
 Programming
      ↓
-DSA
+Data Structures & Algorithms
      ↓
 Software Development
      ↓
