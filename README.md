@@ -5,9 +5,9 @@
 
   <br><br>
 
-  <!-- 2. Orbitron Glowing Typing Header -->
+  <!-- 2. Extra Big & Bold Glowing Orbitron Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;AI+%7C+ML+%7C+Software+Development;Building+Ideas+Into+Real+Projects" alt="Typing SVG" />
   </a>
 
   <br><br>
