@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 1. Animated SVG Avatar -->
+  <!-- 1. Circular Avatar (Your uploaded picture) -->
   <a href="https://github.com/AvinashTiwary332">
-    <img src="./avatar-animated.svg" width="220px" alt="Avinash Kumar Tiwary" />
+    <img src="./avatar.png" width="210px" height="210px" style="border-radius: 50%; object-fit: cover; border: 4px solid #00F2FE;" alt="Avinash Kumar Tiwary" />
   </a>
 
   <br><br>
