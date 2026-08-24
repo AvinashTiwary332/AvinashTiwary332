@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- 1. Centered Animated Hero GIF -->
-  <img src="./Untitled%20design.gif" width="520px" alt="Avinash Kumar Tiwary" />
+  <img src="./Video.gif" width="520px" alt="Avinash Kumar Tiwary" />
 
   <br/><br/>
 
-  <!-- 2. Dynamic Typing Title -->
+  <!-- 2. Bold, Large Glowing Neon Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML)+Student;Adamas+University;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=750&height=70&lines=Avinash+Kumar+Tiwary;B.Tech+CSE+(AI+%26+ML);Adamas+University;" alt="Typing SVG" />
   </a>
 
   <br/><br/>
