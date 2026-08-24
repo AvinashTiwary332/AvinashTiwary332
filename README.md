@@ -37,9 +37,6 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-
-### 📊 GitHub Activity & Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AvinashTiwary332&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=AvinashTiwary332&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
